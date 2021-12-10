@@ -5,7 +5,7 @@ ctx= canvas.getContext("2d");
 ctx.beginPath();
 ctx.strokeStyle= "Grey";
 ctx.lineWidth = 5;
-ctx.rect(125, 143, 430, 200)
+ctx.rect(125, 143, 450, 200)
 ctx.stroke();
 
 ctx.beginPath();
